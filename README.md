@@ -85,10 +85,10 @@ My edge: I don't just build models. I bridge the gap between technical execution
 ## ⚡ Fun facts
 
 - ☕ Powered by coffee and a compulsive need to automate everything
-- 🎯 I believe good systems outlast brilliant individuals
+- 🕺 I dance and sing in my free time — no shame, full commitment
+- 🎮 Video games and board games with friends are a non-negotiable ritual
+- 🏆 Competitive soul: I play to win, and I bring everyone around me up with me
 - 🌎 Building for Peru's digital transformation, one agent at a time
-- ⚽ Football and gaming when not staring at a terminal
-- 📸 [@fabricio\_casta](https://www.instagram.com/fabricio_casta/) on Instagram
 
 ---
 
