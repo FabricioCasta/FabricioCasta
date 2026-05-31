@@ -1,0 +1,53 @@
+<svg width="860" height="110" viewBox="0 0 860 110" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      @keyframes glowPulse {
+        0%, 100% { filter: drop-shadow(0 0 5px #6B8E23) drop-shadow(0 0 12px #4a6320); }
+        50%       { filter: drop-shadow(0 0 12px #8ec02e) drop-shadow(0 0 28px #6B8E23); }
+      }
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(6px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      .quote {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 13px;
+        font-style: italic;
+        fill: #6B8E23;
+        letter-spacing: 1.5px;
+        animation: fadeIn 1.2s ease-out 0.8s both,
+                   glowPulse 4s ease-in-out 2.5s infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="110" fill="#080808" rx="8"/>
+  <rect x="1" y="1" width="858" height="108" fill="none" stroke="#6B8E23" stroke-width="0.4" rx="7" opacity="0.18"/>
+
+  <!-- ─── Waves at top (inverted) ──────────────────────────── -->
+  <svg x="0" y="0" width="860" height="60" viewBox="0 24 150 28" preserveAspectRatio="none">
+    <defs>
+      <path id="wv2" d="M-160 44c30 0 58-18 88-18s58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"/>
+    </defs>
+    <g transform="translate(0,52) scale(1,-1)">
+      <use xlink:href="#wv2" fill="rgba(107,142,35,0.55)">
+        <animateTransform attributeName="transform" type="translate" from="88,0" to="0,0" dur="7s" repeatCount="indefinite"/>
+      </use>
+      <use xlink:href="#wv2" y="3" fill="rgba(107,142,35,0.35)">
+        <animateTransform attributeName="transform" type="translate" from="0,0" to="88,0" dur="10s" repeatCount="indefinite"/>
+      </use>
+      <use xlink:href="#wv2" y="6" fill="rgba(74,144,217,0.28)">
+        <animateTransform attributeName="transform" type="translate" from="88,0" to="0,0" dur="13s" repeatCount="indefinite"/>
+      </use>
+      <use xlink:href="#wv2" y="9" fill="rgba(74,144,217,0.16)">
+        <animateTransform attributeName="transform" type="translate" from="0,0" to="88,0" dur="16s" repeatCount="indefinite"/>
+      </use>
+    </g>
+  </svg>
+  <!-- ─────────────────────────────────────────────────────── -->
+
+  <!-- Quote -->
+  <text x="430" y="96" text-anchor="middle" class="quote">"Build things that create real impact — automate the rest."</text>
+
+</svg>
