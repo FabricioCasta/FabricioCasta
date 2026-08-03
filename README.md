@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About me
 
-**Systems Engineering student @ Universidad de Lima** · 9th cycle · Top 5%  
+**Graduate in Systems Engineering @ Universidad de Lima** · Top 20%  
 **AI & Omnichannel Innovation Lead @ Farmacias Peruanas SAC**
 
 I work at the intersection of data, AI, and business impact. Currently leading agentic AI projects for technological acceleration at one of Peru's largest pharmacy chains — turning complex processes into automated, scalable systems.
