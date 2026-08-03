@@ -43,7 +43,7 @@ My edge: I don't just build models. I bridge the gap between technical execution
 
 * 🌐 **AI & Innovation Lead** @ Farmacias Peruanas SAC — Dirección de Innovación y Omnicanalidad
 * 🔬 **Huawei Seeds for the Future** — Nationally selected for 5G, AI & Cloud program (Nov. 2025)
-* 🎓 **Top 5%** — Universidad de Lima, Ingeniería de Sistemas
+* 🎓 **Top 20%** — Universidad de Lima, Ingeniería de Sistemas
 * 🧪 **NLP Researcher** — Full ML pipeline: dataset creation → model training → Telegram deployment
 * 🌱 **Volunteer @ Vocaciónate** — Data strategy for NGO impact measurement (Mar. 2026 – Present)
 * ⚡ **Scrum Master** — Led full-stack team deploying Next.js + MySQL on Azure
